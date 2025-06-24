@@ -1,0 +1,23 @@
+{
+  "name": "proyecto-git",
+  "version": "1.0.0",
+  "description": "Este avance del proyecto consiste en la creacion de una API con MongoDB y Git, para una tienda de ropa segun lo solicitado.\r El sistema completo ofrece operaciones básicas como inserción, actualización, eliminación y consultas (CRUD) avanzadas a través de una interfaz web.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErmJJ/proyecto-git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErmJJ/proyecto-git/issues"
+  },
+  "homepage": "https://github.com/ErmJJ/proyecto-git#readme",
+  "dependencies": {
+    "mongodb": "^6.17.0"
+  }
+}
