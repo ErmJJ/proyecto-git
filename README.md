@@ -23,7 +23,7 @@ Ejemplo de documento:
   },
   "orders": ["cloth002", "cloth003"]
 }
-
+```
 ### 2. Brands (Marcas)
 
 Ejemplo de documento:
@@ -35,7 +35,7 @@ Ejemplo de documento:
   "country": "USA",
   "founded": 2010
 }
-
+```
 
 ### 3. Clothing (Prendas)
 
@@ -52,7 +52,7 @@ Ejemplo de documento:
   "brand_id": "brand001",
   "in_stock": 120
 }
-
+```
 ---
 
 ## Integrantes del Proyecto:
