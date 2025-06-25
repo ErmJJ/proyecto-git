@@ -5,6 +5,9 @@ node_modules/
 # Logs
 *.log
 
+# Json
+*.json
+
 # Sistema
 .DS_Store
 Thumbs.db
