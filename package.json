@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ErmJJ/proyecto-git#readme",
   "dependencies": {
+    "dotenv": "^16.5.0",
     "mongodb": "^6.17.0"
   }
 }
